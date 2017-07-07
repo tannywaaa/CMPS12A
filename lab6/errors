@@ -1,0 +1,21 @@
+
+/************************************************************ 
+* errors
+* Tangni Wang
+* 1486575
+* lab6
+* This text file describes the possibile errors in the java file LetterHome.class 
+************************************************************/
+
+
+//1. There is a grammar error when I test with input1.dat. No matter what number I put after 4, I got "another books" instead of "another book".
+
+//2. When I put negative number for the question number 4, it gives me negative number of dollars which does not make sence.
+
+//3. When I plug in 4 for question number 2, the program returns "hot " instead of "cold".
+
+//4. For question number 3,it prints out "last weekend" instead of "next weekend" when I plug the second number 3.
+
+//5. When I plug in "0 3", the output gives me that "0 is a valid sentence code. " which is not.
+
+//6. When I plug in "5 0", the program gives me "Thanks for the ERROR." which deletes the part of "you sent". It should deal with the cases when there is a zero, there case does not exist.
